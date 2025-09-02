@@ -1,8 +1,6 @@
 /*******************************************************************
 Prject: Wireless samrt robot car
 Author: Han Guo
-Instructor: David McMillan & Frazz Kamal
-Sunbmission date: April 24th 2020
 *******************************************************************/
 #include <SoftwareSerial.h> 
 #include <Wire.h>
@@ -423,3 +421,4 @@ void DistanceMeasure()
     Serial.println(distance2);
 
 }
+
